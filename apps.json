@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Netflix MOD",
+    "version": "v10.0",
+    "category": "Recommend",
+    "rating": "4.3",
+    "link": "https://yourlink.com/netflix",
+    "image": "assets/netflix.jpg"
+  },
+  {
+    "name": "Prime Video MOD",
+    "version": "v8.2",
+    "category": "Recommend",
+    "rating": "4.5",
+    "link": "https://yourlink.com/prime",
+    "image": "assets/prime.jpg"
+  },
+  {
+    "name": "PUBG Mobile Lite MOD",
+    "version": "v3.0",
+    "category": "Latest",
+    "rating": "4.6",
+    "link": "https://yourlink.com/pubg",
+    "image": "assets/pubg.jpg"
+  }
+]
